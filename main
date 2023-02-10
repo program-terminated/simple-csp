@@ -1,1 +1,10 @@
 
+# Necessary elements:
+# Variables, Domains Constraints.
+# The variables are the boxes of the grid.
+# The domains are the values that each box can be assigned, namely 1 to n in an n x n grid.
+# The constraints:
+# Only a single instance of a value can appear in any column of the grid.
+# Only a single instance of a value can appear in any row of the grid.
+# [TENTATIVE] Only a single instance of a value can appear diagonally in the grid. This might be 
+# limited to only the diagonals starting from the corners of the grid.
